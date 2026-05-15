@@ -22,7 +22,7 @@
 
 ### ⚙️ Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,mongodb,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,mongodb,aws,git,github,bootstrap,jquery,postman" />
 </p>
 
 ### 🗄️ Database & ORM
@@ -30,8 +30,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-- Entity Framework Core
-- SQL Server
 
 ---
 
@@ -59,18 +57,8 @@
 ---
 
 ## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/lekhactung" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/lekhactung0710/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
-📧 Email: **tungle07102005@gmail.com**
+ LinkedIn: https://www.linkedin.com/in/lekhactung0710/
+ Email: **tungle07102005@gmail.com**
 
 ---
 
