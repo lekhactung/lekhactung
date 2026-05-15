@@ -47,7 +47,7 @@
 ---
 
 ## 🌐 Connect With Me
- LinkedIn: https://www.linkedin.com/in/lekhactung0710/ <br>
+ LinkedIn: [lekhactung0710](https://www.linkedin.com/in/lekhactung0710/) <br>
  Email: **tungle07102005@gmail.com**
 
 ---
