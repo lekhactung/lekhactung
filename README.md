@@ -33,16 +33,6 @@
 
 ---
 
-## 📌 Current Interests
-
-- Backend Architecture
-- Frontend Development
-- Distributed Systems
-- Stock Trading Systems
-
----
-
-
 ## 📈 GitHub Stats
 
 <p align="center">
