@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 🎓 I'm a 3rd-year Computer Science student at HCMCOU.  
-💻 Passionate about Backend Development, Frontend Development, and scalable systems.  
+💻 Passionate about Backend, Frontend Development, and scalable systems.  
 📈 Interested in Stock Trading Systems and real-world software solutions.  
 🚀 Always learning new technologies and improving my development skills.
 
