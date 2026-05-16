@@ -17,12 +17,12 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,java,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,java,ts,sql" />
 </p>
 
 ### ⚙️ Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,mongodb,aws,git,github,bootstrap,jquery,postman" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,aws,git,bootstrap,jquery,postman" />
 </p>
 
 ### 🗄️ Database & ORM
