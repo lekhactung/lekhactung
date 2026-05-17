@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,java,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,java,ts,sql" />
 </p>
 
 ### ⚙️ Frameworks & Tools
