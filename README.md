@@ -1,39 +1,35 @@
-# Hi there, I'm Tung Le 👋
+# Hi there, I'm Le Tung 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lekhactung&label=Profile%20views&color=0e75b6&style=flat" alt="lekhactung" />
-</p>
+## About Me
 
-## 🚀 About Me
-
-🎓 I'm a 3rd-year Computer Science student at HCMCOU.  
-💻 Passionate about Backend, Frontend Development, and scalable systems.  
-📈 Interested in Stock Trading Systems and real-world software solutions.  
-🚀 Always learning new technologies and improving my development skills.
+I'm a 3rd-year Computer Science student at HCMCOU.  
+Passionate in Web Development, scalable systems and AI/DL/ML.  
+I'm also interested in Stock Trading Systems and real-world software solutions.  
+Always learning new technologies and improving my development skills.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,java,ts,sql" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,aws,git,bootstrap,jquery,postman" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,nextjs,aws,git,bootstrap,jquery,postman" />
 </p>
 
-### 🗄️ Database & ORM
+### Database & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lekhactung&show_icons=true&theme=tokyonight" />
