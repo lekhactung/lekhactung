@@ -42,7 +42,7 @@ Always learning new technologies and improving my development skills.
 </p>
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
  LinkedIn: [lekhactung0710](https://www.linkedin.com/in/lekhactung0710/) <br>
  Email: **tungle07102005@gmail.com**
 
