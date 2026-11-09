@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a 3rd-year Computer Science student at HCMCOU.  
+I'm a final-year Computer Science student at HCMCOU.  
 Passionate in Web Development, scalable systems and AI/DL/ML.  
 I'm also interested in Stock Trading Systems and real-world software solutions.  
 Always learning new technologies and improving my development skills.
